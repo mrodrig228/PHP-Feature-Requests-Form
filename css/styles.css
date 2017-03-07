@@ -1,0 +1,24 @@
+#contact {
+	padding: 80px 0;
+	background-color: #355891;
+	color: #FFF;
+}
+
+#contact p, h1 {
+	text-align: center;
+}
+
+#contact .btn-secondary {
+	padding: 4px 60px;
+	margin: 15px;
+	color: #000;
+	border: 1px solid #FFF;
+	border-radius: 0;
+	transition: 0.2s;
+}
+
+#contact .btn-secondary:hover {
+	color: #FFF;
+	background-color: #355891;
+	transition: 0.2s;
+}
