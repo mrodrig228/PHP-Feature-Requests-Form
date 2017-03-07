@@ -91,28 +91,13 @@ if ($_POST['submit']) {
               <input type="submit" name="submit" class="btn btn-secondary" value="Submit request">
             </div>
 
-
-
           </form>
-
-
-
-
-
 
         </div>
 
       </div>
 
-
-
     </div>
-
-
-
-
-
-
 
   </section>
 
